@@ -6,7 +6,6 @@
 
 In this video, I’ll show you how I built a Research Paper Explainer AI using RAG (Retrieval-Augmented Generation), Machine Learning, FAISS, BM25, and LLMs—a complete end-to-end AI system that turns complex research papers into simple explanations. 🚀
 
-<img width="1280" height="720" alt="SQL_Thumbnail (99)" src="https://github.com/user-attachments/assets/b2058162-517b-4d3e-b818-fe23fbe5113e" />
 
 
 We’ll go step by step:
