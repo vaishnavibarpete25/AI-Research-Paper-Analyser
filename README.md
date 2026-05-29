@@ -4,9 +4,7 @@
 
 💡 Ever wondered if Artificial Intelligence can actually read and explain research papers for you? 🤯📄
 
-In this video, I’ll show you how I built a Research Paper Explainer AI using RAG (Retrieval-Augmented Generation), Machine Learning, FAISS, BM25, and LLMs—a complete end-to-end AI system that turns complex research papers into simple explanations. 🚀
-
-
+In this, I’ll show you how I built a Research Paper Explainer AI using RAG (Retrieval-Augmented Generation), Machine Learning, FAISS, BM25, and LLMs—a complete end-to-end AI system that turns complex research papers into simple explanations. 🚀
 
 We’ll go step by step:
 ✅ Uploading and processing research papers (PDF parsing)
